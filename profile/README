@@ -4,4 +4,5 @@ Brainfuck Enterprise Solutions is a team of dedicated professionals able to mana
 - Next generation operating system---OS.bf (https://github.com/bf-enterprise-solutions/os.bf)
 - Full-featured text editor---ed.bf (https://github.com/bf-enterprise-solutions/ed.bf)
 - Embeddable metacircular evaluator for Brainfuck---meta.bf (https://github.com/bf-enterprise-solutions/meta.bf)
-- And a rock-solid string manipulation library---string.bf (https://github.com/bf-enterprise-solutions/str.bf)
+- A rock-solid string manipulation library---str.bf (https://github.com/bf-enterprise-solutions/str.bf)
+- UPCOMING (contact us to pre-order): State-of-art asynchronous web-server, nine nines reliable key-value store, and an industry-destroying machine learning framework---all written in Brainfuck!
