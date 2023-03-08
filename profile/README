@@ -1,6 +1,6 @@
 BES---Brainfuck Enterprise Solutions
 
-Brainfuck Enterprise Solutions is a team of dedicated professionals able to manage the complexity of the modern software development with the best tool in the market: Brainfuck programming language and software system. BES lineup of products includes:
+Brainfuck Enterprise Solutions is a team of dedicated professionals able to manage the complexity of the modern software development with the best tool in the market: Brainfuck programming language and software environment. BES lineup of products (already running on the in-house Brainfuck-optimized blade servers) includes:
 - Next generation operating system---OS.bf (https://github.com/bf-enterprise-solutions/os.bf)
 - Full-featured text editor---ed.bf (https://github.com/bf-enterprise-solutions/ed.bf)
 - Embeddable metacircular evaluator for Brainfuck---meta.bf (https://github.com/bf-enterprise-solutions/meta.bf)
